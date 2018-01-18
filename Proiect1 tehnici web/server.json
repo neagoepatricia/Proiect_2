@@ -1,0 +1,113 @@
+{
+  "produse": [
+    {
+      "id": 1,
+      "img": "http://images.ulta.com/is/image/Ulta/2513365"
+    },
+    {
+      "id": 2,
+      "img": "https://www.maccosmetics.com/media/export/cms/products/640x600/mac_sku_MRGM01_640x600_0.jpg"
+    },
+    {
+      "id": 3,
+      "img": "http://d3k0dd91s9iz1c.cloudfront.net/wp-content/uploads/2017/09/Desert-Dusk_3.jpg"
+    },
+    {
+      "id": 4,
+      "img": "https://az835686.vo.msecnd.net/images/gallery_huge/81217_IntenseInkEyeliner.jpg"
+    },
+    {
+      "id": 5,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/51ln4raC%2BtL.jpg"
+    },
+    {
+      "id": 6,
+      "img": "https://n.nordstrommedia.com/ImageGallery/store/product/Zoom/9/_11737089.jpg?fit=fill&fm=jpg&dpr=2&h=368&w=240&quality=45&tradecacheforcash=yes"
+    },
+    {
+      "id": 7,
+      "img": "https://cdn.shopify.com/s/files/1/0737/8455/products/Dare_To_Create_01_500x.jpg?v=1509992927"
+    },
+    {
+      "id": 8,
+      "img": "https://target.scene7.com/is/image/Target/16602026?wid=520&hei=520&fmt=pjpeg"
+    }
+  ],
+  "formular": [
+    {
+      "Nume": "Ana",
+      "Prenume": "Popescu",
+      "Email": "ana.popescu@yahoo.com",
+      "id": 2
+    },
+    {
+      "Nume": "as",
+      "Prenume": "das",
+      "Email": "dsa@yshoo.com",
+      "id": 3
+    },
+    {
+      "Nume": "sgf",
+      "Prenume": "fsd",
+      "Email": "fs@ee.com",
+      "id": 4
+    },
+    {
+      "Nume": "sad",
+      "Prenume": "ads",
+      "Email": "asds@yahoo.com",
+      "id": 5
+    },
+    {
+      "Nume": "das",
+      "Prenume": "das",
+      "Email": "dabudsd@yahoo.com",
+      "id": 6
+    },
+    {
+      "Nume": "das",
+      "Prenume": "das",
+      "Email": "dabudsd@yahoo.com",
+      "id": 7
+    },
+    {
+      "Nume": "das",
+      "Prenume": "das",
+      "Email": "dabudsd@yahoo.com",
+      "id": 8
+    },
+    {
+      "Nume": "ads",
+      "Prenume": "da",
+      "Email": "dasd@hbasj.com",
+      "id": 9
+    },
+    {
+      "Nume": "das",
+      "Prenume": "das",
+      "Email": "asdasd@yahoo.com",
+      "id": 10
+    },
+    {
+      "Nume": "das",
+      "Prenume": "dsasd",
+      "Email": "daasdas@yahoo.com",
+      "Intrebari": "fabaj acjknajkna askndasnas askna",
+      "id": 11
+    },
+    {
+      "Nume": "",
+      "Prenume": "",
+      "Email": "",
+      "Intrebari": "",
+      "id": 12
+    },
+    {
+      "Nume": "",
+      "Prenume": "",
+      "Email": "",
+      "Intrebari": "",
+      "id": 13
+    }
+  ]
+}

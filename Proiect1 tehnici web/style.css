@@ -1,0 +1,251 @@
+
+body {
+   
+    margin-top:30px;
+    background-image: url("111.jpg");
+    margin-left:0px;
+    padding: 0px; 
+
+}
+@media (max-width:1023px) 
+{
+    /* For tablets: */
+ .box .poze img {
+
+        width:200px;
+       
+
+    }
+.box {
+
+     width: 100%;
+        
+    }
+.box .imgsec img{
+     width: 125px; 
+     height: 150px;
+     margin-left: 0px;
+    }
+   
+
+}
+@media (max-width:700px) {
+    /* For mobile phones: */
+    .box .poze img{
+        
+      width:95px;
+      height: 100px;
+      border: 1px solid black; 
+        
+    }
+    .box .poze{
+       margin:0;
+       padding:0;
+    }
+   .box {            
+      width: 100%;
+                        
+    }
+    #eyes img{
+        width: 100px;
+        height: 150px;
+        border: 2px solid black; 
+    }
+    #eyes{
+        margin: 0;
+        padding: 0;
+    }
+
+    #lips img{
+        width: 100px;
+        height: 150px;
+        border: 2px solid black; 
+    }
+
+    #lips{
+        margin: 0;
+        padding: 0;
+    }
+
+    #face img{
+        width: 100px;
+        height: 150px;
+        border: 2px solid black; 
+    }
+    #face{
+        margin: 0;
+        padding: 0;
+        
+    }
+
+    section.sfarsit img{
+        width: 130px;
+        height: 130px;
+        padding: 0px;
+        margin: 0px;
+    }  
+    section.sfarsit p{
+        
+        font-size: 15px;
+    } 
+
+    .contacth1{
+        margin-top: 125px;
+        font-size: 25px;
+        padding: 15px;
+        margin-bottom: 50px;
+    }
+    .sfarsit{
+        padding: 0px;
+        margin-left: 0px;
+    }
+
+    body{
+        padding: 0px;
+        margin: 0px;
+    }
+}
+
+
+h1{
+    font-style: oblique;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    color:black;
+    text-shadow: -1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow;
+}
+h2{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 25px;
+    color:black;
+    text-shadow: -1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow;
+}
+
+.poze{
+    
+    margin-right: 20px;
+    margin-left: 20px;
+  
+
+}
+.poze img{
+    border: 5px solid black; 
+}
+
+.sfarsit{
+    margin-bottom:130px;
+    margin-left: 20px;
+    font-size: 30px;
+
+}
+.sfarsit img{
+    width:300px;
+    height:300px;
+}
+
+.box .imgsec img{   
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    border: 5px solid black; 
+    
+}
+
+
+.img1 img
+{
+    width: 100%;
+    height:300px;
+}
+
+.contacth1{
+    padding: 20px;
+    margin-bottom: 155px;
+}
+
+.contactb{
+    background-image: url("contactw.jpg");
+    background-position: center; 
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+li a:hover:not(.active) {
+    background-color: rgb(90, 90, 83);
+}
+
+.active {
+    background-color: rgb(67, 56, 218);
+}
+
+.animatie1 {
+    color: yellow;
+    font-size: 30px; 
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+.animatie1 img{
+    width:70px;
+     height:70px;
+     border:1px solid black;
+
+}
+.poze img{
+    width:30%;
+    height:350px;
+}
+.border {
+    border:5px solid;
+    border-radius: 25px;
+    border-spacing: 20px;
+    margin-left: 450px;
+    margin-right: 550px;
+    background: LavenderBlush;
+   opacity: 0.7;
+
+}
+.secform{
+ 
+    margin-left: 50px;
+}
+.secform p{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+#text{
+    font-size: 20px;
+   margin-left: 35px;
+    font-weight: bold;
+}
+
+#scrism{
+    font-size: 12px ;
+}
+
